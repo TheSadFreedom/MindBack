@@ -1,0 +1,23 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+/static/
+/media/auth/
+/media/neural_network/
+
+# Environment #
+*.env
+
+# Backup files # 
+*.bak 
+
+# Python # 
+*.py[cod] 
+*$py.class 
+
+# Visual Studio Code # 
+.vscode/*
+.history
